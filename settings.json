@@ -1,0 +1,23 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "autosave": "off",
+  "buffer_font_size": 14,
+  "buffer_font_family": "HackGenNerd",
+  "tab_size": 2,
+  "vim_mode": false,
+  "soft_wrap": "none",
+  "theme": "sandcastle",
+  "preferred_line_length": 80,
+  "projects_online_by_default": true,
+  "terminal": {
+    "font_family": "HackGenNerd",
+    "font_size": 12
+  }
+}
